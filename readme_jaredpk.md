@@ -8,7 +8,7 @@ The concepts are a little new to me, but I'm starting to get the hang of it.
 - Forking
 
 I'm especially curious to see how these concepts are used to **efficiently collaborate**.  
-One other important thing I need to learn is how to create a pull request that goes to the instructor and TA.
+One other important thing I need to learn is how to **create a pull request** that goes to the instructor and TA.
 This should become clearer as we progress through the course.
 
 ---
